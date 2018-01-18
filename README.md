@@ -3,7 +3,7 @@
 
 
 
-![Image of Yaktocat](https://raw.githubusercontent.com/GriesbeckLab/Picker-Firmware/master/picker.jpg)
+![Image of Picker](https://raw.githubusercontent.com/GriesbeckLab/Picker-Firmware/master/picker.jpg)
 
 
 ## Description
